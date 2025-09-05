@@ -1,0 +1,96 @@
+{
+  "recipes": [
+    {
+      "name": "Quinoa Power Bowl",
+      "description": "A nutritious bowl packed with quinoa, salmon, and fresh vegetables",
+      "instructions": [
+        "Rinse quinoa under cold water until water runs clear",
+        "Cook quinoa in vegetable broth for 15 minutes until fluffy",
+        "Season salmon fillet with salt, pepper, and lemon juice",
+        "Pan-sear salmon for 4-5 minutes per side until cooked through",
+        "Massage kale leaves with a little olive oil to soften",
+        "Slice avocado just before serving",
+        "Assemble bowl with quinoa as base, top with kale, salmon, and avocado",
+        "Drizzle with lemon-tahini dressing if desired"
+      ],
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "category": "Main Course",
+      "difficulty": "medium",
+      "ingredients": [
+        {
+          "ingredient_name": "Quinoa",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient_name": "Wild Salmon",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient_name": "Kale",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "ingredient_name": "Avocado",
+          "quantity": 100,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "Simple Avocado Toast",
+      "description": "Quick and healthy breakfast with mashed avocado on toast",
+      "instructions": [
+        "Toast bread slices until golden brown",
+        "Mash avocado in a bowl with a fork",
+        "Season mashed avocado with salt, pepper, and lemon juice",
+        "Spread avocado mixture evenly on toast",
+        "Optional: top with cherry tomatoes or a poached egg"
+      ],
+      "prep_time": 5,
+      "cook_time": 3,
+      "servings": 1,
+      "category": "Breakfast",
+      "difficulty": "easy",
+      "ingredients": [
+        {
+          "ingredient_name": "Avocado",
+          "quantity": 80,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "Kale Smoothie",
+      "description": "Green smoothie with kale and banana for a healthy start",
+      "instructions": [
+        "Wash kale leaves thoroughly and remove stems",
+        "Add kale, banana, and liquid to blender",
+        "Blend on high speed for 60-90 seconds until smooth",
+        "Add ice if desired for a colder drink",
+        "Pour into glass and serve immediately"
+      ],
+      "prep_time": 5,
+      "cook_time": 0,
+      "servings": 1,
+      "category": "Breakfast",
+      "difficulty": "easy",
+      "ingredients": [
+        {
+          "ingredient_name": "Kale",
+          "quantity": 40,
+          "unit": "g"
+        },
+        {
+          "ingredient_name": "Banana",
+          "quantity": 120,
+          "unit": "g"
+        }
+      ]
+    }
+  ]
+}
